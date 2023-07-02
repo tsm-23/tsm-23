@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thomas Mwambire
 - 👀 I’m interested in technology and music
-- 🌱 I’m in trining to be a full-stack developer
+- 🌱 I’m in training to be a full-stack developer
 - 💞️ I’m looking to collaborate on java projects and mobile app development
 - 📫 How to reach me at tomsmwambire23@gmail.com
 
